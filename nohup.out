@@ -1,0 +1,60 @@
+./autoGPT.py: 1: import: not found
+from: can't read /var/mail/bardapi
+from: can't read /var/mail/flask
+./autoGPT.py: 4: Syntax error: "(" unexpected
+ * Serving Flask app 'autoGPT'
+ * Debug mode: off
+WARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.
+ * Running on http://127.0.0.1:5000
+Press CTRL+C to quit
+ * Serving Flask app 'autoGPT'
+ * Debug mode: off
+WARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.
+ * Running on http://127.0.0.1:5000
+Press CTRL+C to quit
+127.0.0.1 - - [23/Jun/2023 09:03:19] "POST /get_result HTTP/1.1" 200 -
+Gym excercise to reduce your love handles
+ * Serving Flask app 'autoGPT'
+ * Debug mode: off
+WARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.
+ * Running on http://127.0.0.1:5000
+Press CTRL+C to quit
+127.0.0.1 - - [23/Jun/2023 09:05:04] "POST /get_result HTTP/1.1" 200 -
+127.0.0.1 - - [23/Jun/2023 09:08:45] "POST /get_result HTTP/1.1" 200 -
+127.0.0.1 - - [23/Jun/2023 09:10:14] "POST /get_result HTTP/1.1" 200 -
+127.0.0.1 - - [23/Jun/2023 09:10:44] "POST /get_result HTTP/1.1" 200 -
+127.0.0.1 - - [23/Jun/2023 09:14:52] "POST /get_result HTTP/1.1" 200 -
+127.0.0.1 - - [23/Jun/2023 09:25:23] "POST /get_result HTTP/1.1" 200 -
+127.0.0.1 - - [23/Jun/2023 09:28:12] "POST /get_result HTTP/1.1" 200 -
+127.0.0.1 - - [23/Jun/2023 09:28:49] "POST /get_result HTTP/1.1" 200 -
+127.0.0.1 - - [23/Jun/2023 09:30:50] "POST /get_result HTTP/1.1" 200 -
+127.0.0.1 - - [23/Jun/2023 10:50:00] "POST /get_result HTTP/1.1" 200 -
+127.0.0.1 - - [23/Jun/2023 10:50:33] "POST /get_result HTTP/1.1" 200 -
+127.0.0.1 - - [23/Jun/2023 10:51:27] "POST /get_result HTTP/1.1" 200 -
+127.0.0.1 - - [23/Jun/2023 10:51:35] "POST /get_result HTTP/1.1" 200 -
+127.0.0.1 - - [23/Jun/2023 10:55:33] "POST /get_result HTTP/1.1" 200 -
+127.0.0.1 - - [23/Jun/2023 12:08:24] "POST /get_result HTTP/1.1" 200 -
+127.0.0.1 - - [23/Jun/2023 12:09:17] "POST /get_result HTTP/1.1" 200 -
+127.0.0.1 - - [23/Jun/2023 12:16:55] "POST /get_result HTTP/1.1" 200 -
+127.0.0.1 - - [23/Jun/2023 12:17:41] "POST /get_result HTTP/1.1" 200 -
+127.0.0.1 - - [23/Jun/2023 12:20:56] "POST /get_result HTTP/1.1" 200 -
+127.0.0.1 - - [23/Jun/2023 12:23:03] "POST /get_result HTTP/1.1" 200 -
+127.0.0.1 - - [23/Jun/2023 12:23:59] "POST /get_result HTTP/1.1" 200 -
+127.0.0.1 - - [23/Jun/2023 12:24:23] "POST /get_result HTTP/1.1" 200 -
+127.0.0.1 - - [23/Jun/2023 12:27:24] "POST /get_result HTTP/1.1" 200 -
+127.0.0.1 - - [23/Jun/2023 12:28:03] "POST /get_result HTTP/1.1" 200 -
+127.0.0.1 - - [23/Jun/2023 12:29:05] "POST /get_result HTTP/1.1" 200 -
+127.0.0.1 - - [23/Jun/2023 13:49:21] "POST /get_result HTTP/1.1" 200 -
+127.0.0.1 - - [23/Jun/2023 13:51:17] "POST /get_result HTTP/1.1" 200 -
+127.0.0.1 - - [23/Jun/2023 13:51:52] "POST /get_result HTTP/1.1" 200 -
+127.0.0.1 - - [23/Jun/2023 17:20:15] "POST /get_result HTTP/1.1" 200 -
+127.0.0.1 - - [23/Jun/2023 17:20:37] "POST /get_result HTTP/1.1" 200 -
+127.0.0.1 - - [23/Jun/2023 17:22:55] "POST /get_result HTTP/1.1" 200 -
+127.0.0.1 - - [23/Jun/2023 17:26:51] "POST /get_result HTTP/1.1" 200 -
+127.0.0.1 - - [23/Jun/2023 17:31:15] "POST /get_result HTTP/1.1" 200 -
+127.0.0.1 - - [23/Jun/2023 17:32:08] "POST /get_result HTTP/1.1" 200 -
+127.0.0.1 - - [23/Jun/2023 17:37:37] "POST /get_result HTTP/1.1" 200 -
+127.0.0.1 - - [23/Jun/2023 17:38:10] "POST /get_result HTTP/1.1" 200 -
+127.0.0.1 - - [23/Jun/2023 17:39:24] "POST /get_result HTTP/1.1" 200 -
+127.0.0.1 - - [23/Jun/2023 17:40:35] "POST /get_result HTTP/1.1" 200 -
+127.0.0.1 - - [23/Jun/2023 17:41:36] "POST /get_result HTTP/1.1" 200 -
